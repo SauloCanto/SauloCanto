@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**SauloCanto/SauloCanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Saulo Canto**, a Brazilian developer currently pursuing a degree in **Computer Engineering** at **PUC-Rio**, where I study on a **100% scholarship**.
 
-Here are some ideas to get you started:
+I have a strong interest in **Data Science**—especially databases and data filtering—and in **IoT projects**, particularly anything involving **microcontrollers**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently an **intern at TreeTech** and also serve as the **Electronics Coordinator** for **Reptiles Baja**, the PUC-Rio off-road vehicle competition team.
+
+---
+
+### 🔧 Skills
+- **Languages**: C, Python  
+- **Microcontrollers**: ESP32, Arduino  
+- **Tools**: EasyEDA  
+- **Currently learning**: GitHub, Visual Studio Code
+
+---
+
+### 📫 How to reach me
+- Email: [saulocantofaria@gmail.com](mailto:saulocantofaria@gmail.com)
+
+---
+
+Thanks for stopping by!
