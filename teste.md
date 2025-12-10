@@ -2,8 +2,9 @@
 
 ## Descrição do Projeto
 
-Este projeto consiste no desenvolvimento de uma **impressora Braille de baixo custo**, capaz de converter textos digitados pelo usuário em **impressões físicas em Braille**.  
-O sistema utiliza um **Arduino Mega** em conjunto com um **Shield CNC**, motores de passo e **solenoides**, permitindo o controle preciso da posição e da marcação dos pontos.
+Este projeto consiste no desenvolvimento de uma **impressora Braille de baixo custo**, capaz de converter textos digitados pelo usuário em **impressões físicas em Braille**.
+
+O sistema utiliza um **Arduino Mega** em conjunto com um **Shield CNC**, motores de passo e **solenoides**, permitindo o controle da posição e da marcação dos pontos.
 
 A solução foi pensada para aumentar a **acessibilidade de pessoas com deficiência visual**, oferecendo uma alternativa portátil e mais acessível às impressoras Braille comerciais.
 
@@ -32,7 +33,7 @@ A solução foi pensada para aumentar a **acessibilidade de pessoas com deficiê
 
 O projeto é dividido em duas partes principais:
 
-### 1️Interface do Usuário (Software)
+### Interface do Usuário (Software)
 
 O usuário tem acesso a um software próprio que permite:
 
